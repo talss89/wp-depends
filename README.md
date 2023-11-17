@@ -25,7 +25,7 @@ This isn't packaged yet. Include it in your `composer.json` directly from GitHub
     }
 ],
 "require": {
-    "talss89/wp-depends": "dev-master"
+    "talss89/wp-depends": "dev-main"
 }
 ```
 
